@@ -8,26 +8,93 @@
   <img src="https://komarev.com/ghpvc/?username=URAYUSHJAIN&label=Profile%20views&color=0e75b6&style=flat" alt="URAYUSHJAIN" />
 </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuragtrivedi64) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-trivedi-b8957128a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@a_trivedi39407) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragtrivedi559@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+---
+
+- 🔭 I'm currently working on **MERN Stack Projects** and **Innovative Web Applications**
+- 🌱 I'm currently learning **Advanced React.js, Node.js, and Modern Web Technologies**
+- 💬 Ask me about **Web Development, React, Node.js, JavaScript, Problem Solving**
+- 📫 How to reach me: **anuragtrivedi559@gmail.com**
+- 📄 Know about my experiences: **[My Resume]()**
+- ⚡ Fun fact: *I overthink everything… and that somehow turned into 5 tech patents.!*
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,js,html,css" />
+</p>
+
+### 🚀 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap" />
+</p>
+
+### 🗄️ Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,postman" /
+</p>
+
+### ⚙️ Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker,windows,npm" />
+  
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anurag-trivedi-b8957128a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:anuragtrivedi559@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+</p>
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=anuragtrivedi-cloud&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=anuragtrivedi-cloud&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anuragtrivedi-cloud&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anuragtrivedi-cloud&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anuragtrivedi-cloud&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
-[![](https://komarev.com/ghpvc/?username=anuragtrivedi-cloud&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🏅 Achievements & Highlights
+
+- 🎓 **Computer Science Student** - Currently pursuing B.Tech
+- 🔬 **Patents** - Innovations in Smart Energy, Blockchain, and Healthcare
+- 🏆 **Full Stack Developer** - MERN Stack Specialist
+- 💡 **Problem Solver** - Passionate about creating innovative solutions
+- 🌟 **Open Source Enthusiast** - Contributing to the developer community
+
+  [![An image of @urayushjain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/urayushjain)](https://holopin.io/@urayushjain)
+
+
+
+---
+
+<p align="center">
+  <i>Let's connect and chat! Open to collaborating on interesting and innovative projects.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
