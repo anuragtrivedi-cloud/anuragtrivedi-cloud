@@ -1,15 +1,13 @@
 
-# Anurag Trivedi Portfolio
+<h1 align="center">Hi 👋, I'm Anurag Trivedi</h1>
+<h3 align="center">Full-Stack Developer • CSE’27</h3>
+<h4 align="center">Passionate about Web Development, Problem Solving, and Building Innovative Solutions 🚀</h4>
+<div align="center">
+<img src="./anurag(10).ico" alt="Anurag" width="200px"/></div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=URAYUSHJAIN&label=Profile%20views&color=0e75b6&style=flat" alt="URAYUSHJAIN" />
+</p>
 
-This is my personal portfolio website showcasing my expertise as a Full-Stack Developer & Web3 Enthusiast.
-
-## Features
-
-- **Modern Design**: Clean, responsive interface built with Next.js and Tailwind CSS
-- **SEO Optimized**: Comprehensive SEO implementation with meta tags, structured data, and social media optimization
-- **Project Showcase**: Detailed presentation of my projects including GenShakti, Shayoga, and more
-- **Certifications**: Complete list of my technical certifications and achievements
-- **Downloadable Resume**: Easy access to my latest resume
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuragtrivedi64) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-trivedi-b8957128a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@a_trivedi39407) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragtrivedi559@gmail.com) 
 
